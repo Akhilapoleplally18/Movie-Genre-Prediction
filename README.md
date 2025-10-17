@@ -1,6 +1,4 @@
-# Movie-Genre-Prediction
-An AI-powered model that predicts movie genres using CNNs. This project showcases deep learning’s ability to understand multimedia data for intelligent genre classification.
-# 🎬 Movie Genre Prediction Using Deep Learning
+# 🎬 Movie Genre Prediction 
 
 This project predicts the **genre of a movie** using advanced **deep learning** techniques.  
 It demonstrates how machine learning models can be applied to movie-related data to classify films into genres such as **Action**, **Comedy**, **Drama**, **Horror**, and more.
