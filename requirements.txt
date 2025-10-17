@@ -1,0 +1,13 @@
+This includes all the major Python libraries typically used for data processing, visualization, and deep learning inside Jupyter Notebook:
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+jupyter
+opencv-python
+nltk
+torch
+librosa
